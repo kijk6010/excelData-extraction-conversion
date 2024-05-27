@@ -1,2 +1,5 @@
-# excelData-extraction-conversion
-Excel data extraction and Oracle Where clause condition conversion
+# 엑셀 데이터 추출 및 변환
+* 1000건 이상의 조건을 갖고 데이터 추출 시 활용을 위해 작성
+* * *
+1. 엑셀 데이터 추출
+2. Oracle Where절에서 사용할 IN절 변환
